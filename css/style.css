@@ -5,7 +5,7 @@
     padding: 0px;
 }
 
-/* disposition du contenant */
+/* disposition du contenant et des div puis coloration */
 
 .contain{
     width: 100%;
@@ -14,7 +14,7 @@
 .contain div {
     position: absolute;
 }
-/* coloration des boite */
+
 .div_0,.div_5{
     background-color: red;
     border: solid 2px blue;
